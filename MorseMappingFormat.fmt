@@ -1,0 +1,4 @@
+10.0
+2
+1	SQLCHAR	0	1	"\t"	1	AlphaValue	""
+2	SQLCHAR 0	10	"\r\n"	2	MorseValue	""
